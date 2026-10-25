@@ -1,0 +1,27 @@
+# Model files (excluded due to GitHub 100MB file size limit)
+*.keras
+*.h5
+*.tflite
+*.pt
+*.pth
+*.onnx
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
